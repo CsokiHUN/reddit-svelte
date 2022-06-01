@@ -1,0 +1,27 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "*",
+    "@vitejs/plugin-vue": "^2.2.4",
+    "autoprefixer": "^10.4.2",
+    "daisyui": "^2.6.0",
+    "postcss": "^8.4.7",
+    "svelte": "^3.46.4",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.6"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "check-password-strength": "^2.0.5",
+    "dayjs": "^1.11.2",
+    "dotenv": "^16.0.1",
+    "svelte-navigator": "^3.1.5",
+    "sweetalert": "^2.1.2"
+  }
+}
