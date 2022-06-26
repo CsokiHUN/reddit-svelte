@@ -109,8 +109,6 @@
       {$currentUser.name}
     </h2>
 
-    <!-- <input value={$currentUser.email} type="email" class="input input-sm" placeholder="E-mail" /> -->
-
     <div class="grid grid-cols-2 gap-3">
       <form
         on:submit|preventDefault={() => changePassword()}
