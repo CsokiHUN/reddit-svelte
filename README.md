@@ -10,6 +10,7 @@ Base Idea: [(link)](https://www.frontendmentor.io/challenges/interactive-comment
 - [Svelte](https://svelte.dev/ 'Svelte')
 - [Tailwindcss](https://tailwindcss.com/ 'Tailwindcss') + [daisyUI](https://daisyui.com/ 'daisyUI')
 - [SweetAlert](https://sweetalert.js.org/ 'SweetAlert')
+- [Fontawesome](https://fontawesome.com/)
 
 ##### Backend
 
